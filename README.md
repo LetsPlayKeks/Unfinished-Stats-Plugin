@@ -1,4 +1,4 @@
-# Unfinished-Stats-Plugin
+# Unfinished-Stats-Plugin-WIP
 This is an unfinished minecraft Plugin for the Version 1.18, although this version of spigot isn't available yet. I hope it will work .___.
 
 Pls do not edit the code or sell it. This "Project" or whatever this is, is not licensed. So I can only ask you, to not sell or edit it.
