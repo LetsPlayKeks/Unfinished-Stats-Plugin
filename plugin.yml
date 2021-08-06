@@ -1,0 +1,15 @@
+name: KeksStatsPlugin
+version: 1.2
+main: de.keks.statsplugin.main.Main
+author: LetsPlayKeks
+api-version: 1.17
+
+commands:
+   stats:
+   notificationson:
+   notifyon:
+   notificationsoff:
+   notifyoff:
+   setslaying:
+   
+   
